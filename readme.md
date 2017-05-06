@@ -30,6 +30,13 @@
 > 3、生成文件：$ npm run build  
 
 ### Articles
+* [Redux 中文文档](http://cn.redux.js.org/index.html)
+* [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+* [nodejs](https://nodejs.org/en/)
+* [react chinese document](http://cn.redux.js.org/docs/introduction/index.html)
+* [ant-tool 文档快速构建antd项目](https://ant-tool.github.io/quick-start.html)
+* [antd](https://ant.design/docs/react/getting-started)
+* [各种组件库](https://www.awesomes.cn/subject/react#表单-日期时间)
 * [React 的ES5、ES6写法对照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)
 * [React 组件之间如何交流](http://www.tuicool.com/articles/AzQzEbq)
 * [react-router 中的history](https://zhuanlan.zhihu.com/p/20799258?refer=jscss)
@@ -42,8 +49,7 @@
 * [传统 Ajax 已死，Fetch 永生](http://www.jianshu.com/p/THLARe#)
 * [Fetch API](https://github.github.io/fetch/)
 * [使用Mock.js进行独立于后端的前端开发](https://segmentfault.com/a/1190000003087224)
-＊ [reactSPA demo](https://github.com/JasonBai007/reactSPA) 
-＊ [Redux 中文文档](http://cn.redux.js.org/index.html)
+* [reactSPA demo](https://github.com/JasonBai007/reactSPA) 
 
 ### Diary(填坑日志)
 * 1、webpack配置相关问题查看webpack.config.js文件  
@@ -54,4 +60,7 @@
 * 6、编译静态文件的webpack配置中，插件项目需要设置成生产环境NODE_ENV:JSON.stringify("production") ，否则UglifyJsPlugin 压缩 控制台警告，dev环境可以不压缩，上线前打开压缩功能 
 * 7、fetch实现服务端数据加载 
 * 8、本地mack数据  
+
+### solve problems
+* [stackoverflow](http://stackoverflow.com/)
  
