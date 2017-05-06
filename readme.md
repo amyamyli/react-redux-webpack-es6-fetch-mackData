@@ -3,7 +3,6 @@
 
 ### Tech Stack
 * UI库：React & React-Dom
-* UI组件：Antd
 * 路由：React-Router-dom & History
 * 框架：Redux
 * JS：ES6 
@@ -47,12 +46,12 @@
 ＊ [Redux 中文文档](http://cn.redux.js.org/index.html)
 
 ### Diary(填坑日志)
-> 1、webpack配置相关问题查看webpack.config.js文件  
-> 2、redux引入（reducer－store-Provider-container(容器组建，引入action，mapStateToProps，mapDispatchToProps connet component)－component渲染）  
-> 3、路由配置使用react-router-dom 代替 react-router，HashRouter  代替 Router 否则报错
-> 4、Link 实现url地址切换（导航实现） 
-> 5、路由的history配置，如果配置成hashHistory,则url地址里会有难看的后缀  
-> 6、编译静态文件的webpack配置中，插件项目需要设置成生产环境NODE_ENV:JSON.stringify("production") ，否则UglifyJsPlugin 压缩 控制台警告，dev环境可以不压缩，上线前打开压缩功能
-> 7、fetch实现服务端数据加载
-> 8、本地mack数据 
+* 1、webpack配置相关问题查看webpack.config.js文件  
+* 2、redux引入（reducer－store-Provider-container(容器组建，引入action，mapStateToProps，mapDispatchToProps connet component)－component渲染）  
+* 3、路由配置使用react-router-dom 代替 react-router，HashRouter  代替 Router 否则报错 
+* 4、Link 实现url地址切换（导航实现）   
+* 5、路由的history配置，如果配置成hashHistory,则url地址里会有难看的后缀    
+* 6、编译静态文件的webpack配置中，插件项目需要设置成生产环境NODE_ENV:JSON.stringify("production") ，否则UglifyJsPlugin 压缩 控制台警告，dev环境可以不压缩，上线前打开压缩功能 
+* 7、fetch实现服务端数据加载 
+* 8、本地mack数据  
  
